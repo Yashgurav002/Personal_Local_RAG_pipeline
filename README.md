@@ -119,5 +119,5 @@ This notebook is the foundation for a full-stack **"Chat with Any PDF"** web app
 
 **Yash Gurav** — AI & Data Science Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-gurav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-gurav-58bbba21a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Yashgurav002/)
